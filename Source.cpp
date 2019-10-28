@@ -17,7 +17,7 @@ if (pid=fork() > 0) {/* Parent, jobGenerator process */
     exit(0);
 
 }
-
+//hello
 return (1);
 
 }
